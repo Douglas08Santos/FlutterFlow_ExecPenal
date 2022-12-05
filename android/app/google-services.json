@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "513863961347",
+    "project_id": "mobileexecpenal",
+    "storage_bucket": "mobileexecpenal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513863961347:android:18f70ecf538f4621fab736",
+        "android_client_info": {
+          "package_name": "com.mycompany.execucao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513863961347-b46a34k2grk1b4vsbkdm52t9jdgf2vgo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL0092lv4zpLh3xfut2G7tHYUC8KByhNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513863961347-b46a34k2grk1b4vsbkdm52t9jdgf2vgo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "513863961347-n6nhocrf0cv9vbuar7ulmjtlacphf9hg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.execucao"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

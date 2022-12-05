@@ -1,0 +1,36 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "attendences",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "voluntary",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "input_time",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "attendences",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "voluntary",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "institution",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "input_time",
+          "order": "ASCENDING"
+        }
+      ]
+    }
+  ]
+}
